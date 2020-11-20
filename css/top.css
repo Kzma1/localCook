@@ -1,0 +1,25 @@
+  /* top予算 */
+  .overlay2 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: aquamarine;
+    z-index: 996;
+  }
+  
+  .overlayWindow2 {
+    width: 30%;
+    height: 40%;
+    margin: 100px auto;
+    border: 2px solid #0000FF;
+    background-color: white;
+    text-align: center;
+    z-index: 997;
+  }
+
+  .decision {
+    margin: 20px;
+  }
+  

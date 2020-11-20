@@ -1,0 +1,37 @@
+.wrap {
+    margin-top: -20px;
+    background-color: aquamarine;
+    z-index: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.menumain {
+    width: 100%;
+    padding: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.menuList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menuList img {
+    margin: 20px 30px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.start {
+    text-align: center;
+}
